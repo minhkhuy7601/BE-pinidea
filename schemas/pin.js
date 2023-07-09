@@ -14,8 +14,18 @@ export default {
       type: 'string',
     },
     {
-      name: 'placeholder',
-      title: 'Placeholder',
+      name: 'widthImage',
+      title: 'WidthImage',
+      type: 'number',
+    },
+    {
+      name: 'heightImage',
+      title: 'HeightImage',
+      type: 'number',
+    },
+    {
+      name: 'hexAverageColor',
+      title: 'HexAverageColor',
       type: 'string',
     },
     {
